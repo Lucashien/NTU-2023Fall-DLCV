@@ -1,0 +1,1 @@
+python3 P2_evaluate.py --pred_file="model_prefix_0_g.json" --annotation_file="../hw3_data/p2_data/val.json" --images_root="../hw3_data/p2_data/images/val"

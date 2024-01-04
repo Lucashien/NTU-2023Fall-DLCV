@@ -1,0 +1,48 @@
+正在處理檔案: model_prefix_0_b.json
+PTBTokenizer tokenized 110968 tokens at 1348339.13 tokens per second.
+PTBTokenizer tokenized 20910 tokens at 464780.83 tokens per second.
+CIDEr: 0.7698482678370574 | CLIPScore: 0.683868135267826
+正在處理檔案: model_prefix_1_b.json
+PTBTokenizer tokenized 110968 tokens at 1267638.55 tokens per second.
+PTBTokenizer tokenized 21342 tokens at 463444.25 tokens per second.
+CIDEr: 0.8291169674047973 | CLIPScore: 0.6965885407568824
+正在處理檔案: model_prefix_2_b.json
+PTBTokenizer tokenized 110968 tokens at 1129261.04 tokens per second.
+PTBTokenizer tokenized 21542 tokens at 458587.48 tokens per second.
+CIDEr: 0.8687939367231063 | CLIPScore: 0.7096776647764987
+正在處理檔案: model_prefix_3_b.json
+PTBTokenizer tokenized 110968 tokens at 1272129.76 tokens per second.
+PTBTokenizer tokenized 21275 tokens at 469624.86 tokens per second.
+CIDEr: 0.8844796077478119 | CLIPScore: 0.7105283699867244
+正在處理檔案: model_prefix_4_b.json
+PTBTokenizer tokenized 110968 tokens at 1124353.59 tokens per second.
+PTBTokenizer tokenized 21694 tokens at 460043.20 tokens per second.
+CIDEr: 0.8654583697747852 | CLIPScore: 0.7112306666280918
+正在處理檔案: model_prefix_5_b.json
+PTBTokenizer tokenized 110968 tokens at 1178506.44 tokens per second.
+PTBTokenizer tokenized 22156 tokens at 463165.45 tokens per second.
+CIDEr: 0.8273492534293949 | CLIPScore: 0.7180794662040595
+正在處理檔案: model_prefix_6_b.json
+PTBTokenizer tokenized 110968 tokens at 1038190.16 tokens per second.
+PTBTokenizer tokenized 22128 tokens at 485971.87 tokens per second.
+CIDEr: 0.8271347554788281 | CLIPScore: 0.7169877250078606
+正在處理檔案: model_prefix_7_b.json
+PTBTokenizer tokenized 110968 tokens at 1093585.94 tokens per second.
+PTBTokenizer tokenized 21839 tokens at 458665.62 tokens per second.
+CIDEr: 0.8045080748122777 | CLIPScore: 0.7182161044381463
+正在處理檔案: model_prefix_8_b.json
+PTBTokenizer tokenized 110968 tokens at 1400016.69 tokens per second.
+PTBTokenizer tokenized 21891 tokens at 459731.98 tokens per second.
+CIDEr: 0.8074334616507454 | CLIPScore: 0.7155599322247065
+正在處理檔案: model_prefix_9_b.json
+PTBTokenizer tokenized 110968 tokens at 1329876.10 tokens per second.
+PTBTokenizer tokenized 22656 tokens at 471425.38 tokens per second.
+CIDEr: 0.7764468252936791 | CLIPScore: 0.7121243591479178
+正在處理檔案: model_prefix_10_b.json
+Traceback (most recent call last):
+  File "P2_evaluate.py", line 143, in <module>
+    main(args)
+  File "P2_evaluate.py", line 118, in main
+    assert type(predictions) is dict
+AssertionError
+所有檔案處理完成

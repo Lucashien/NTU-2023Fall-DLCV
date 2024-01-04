@@ -1,0 +1,1 @@
+python3 P2_training.py --file="../hw3_data/p1_data/val" --json="../hw3_data/p1_data/id2label.json" --output="P1_output.csv"

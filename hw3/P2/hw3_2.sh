@@ -1,0 +1,1 @@
+python3 P2_inference.py  "b" 

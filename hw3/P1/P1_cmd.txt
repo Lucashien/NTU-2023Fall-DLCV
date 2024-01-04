@@ -1,0 +1,1 @@
+bash hw3_1.sh ../hw3_data/p1_data/val ../hw3_data/p1_data/id2label.json P1_output.csv

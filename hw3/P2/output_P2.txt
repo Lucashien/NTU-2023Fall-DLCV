@@ -1,0 +1,90 @@
+正在處理檔案: model_P2_0_b.json
+PTBTokenizer tokenized 110968 tokens at 1526527.70 tokens per second.
+PTBTokenizer tokenized 23123 tokens at 489683.23 tokens per second.
+CIDEr: 0.7697320444370601 | CLIPScore: 0.6862233110217825
+正在處理檔案: model_P2_1_b.json
+PTBTokenizer tokenized 110968 tokens at 1506833.25 tokens per second.
+PTBTokenizer tokenized 21986 tokens at 464170.39 tokens per second.
+CIDEr: 0.8786049537126773 | CLIPScore: 0.7019832775271625
+正在處理檔案: model_P2_2_b.json
+PTBTokenizer tokenized 110968 tokens at 1511097.49 tokens per second.
+PTBTokenizer tokenized 21574 tokens at 469344.90 tokens per second.
+CIDEr: 0.9178611062304262 | CLIPScore: 0.712245644771433
+正在處理檔案: model_P2_3_b.json
+PTBTokenizer tokenized 110968 tokens at 1539839.45 tokens per second.
+PTBTokenizer tokenized 21947 tokens at 480828.47 tokens per second.
+CIDEr: 0.9089827035766171 | CLIPScore: 0.7191017794835628
+正在處理檔案: model_P2_4_b.json
+PTBTokenizer tokenized 110968 tokens at 1537245.52 tokens per second.
+PTBTokenizer tokenized 21543 tokens at 465575.04 tokens per second.
+CIDEr: 0.9048060429218833 | CLIPScore: 0.720022253779608
+正在處理檔案: model_P2_5_b.json
+PTBTokenizer tokenized 110968 tokens at 1513705.97 tokens per second.
+PTBTokenizer tokenized 21850 tokens at 481909.12 tokens per second.
+CIDEr: 0.8764333986913886 | CLIPScore: 0.7239779391856485
+正在處理檔案: model_P2_6_b.json
+PTBTokenizer tokenized 110968 tokens at 1526278.07 tokens per second.
+PTBTokenizer tokenized 21941 tokens at 477959.93 tokens per second.
+CIDEr: 0.8518937840856193 | CLIPScore: 0.7210529257026447
+正在處理檔案: model_P2_7_b.json
+PTBTokenizer tokenized 110968 tokens at 1523287.02 tokens per second.
+PTBTokenizer tokenized 23197 tokens at 507279.94 tokens per second.
+CIDEr: 0.8127258486933681 | CLIPScore: 0.7242307455063932
+正在處理檔案: model_P2_8_b.json
+PTBTokenizer tokenized 110968 tokens at 1511246.30 tokens per second.
+PTBTokenizer tokenized 23074 tokens at 505227.72 tokens per second.
+CIDEr: 0.8042578601838398 | CLIPScore: 0.718778009985065
+正在處理檔案: model_P2_9_b.json
+PTBTokenizer tokenized 110968 tokens at 1503526.50 tokens per second.
+PTBTokenizer tokenized 22982 tokens at 489785.88 tokens per second.
+CIDEr: 0.7963788179289715 | CLIPScore: 0.7195812926870808
+正在處理檔案: model_P2_10_b.json
+PTBTokenizer tokenized 110968 tokens at 1546318.20 tokens per second.
+PTBTokenizer tokenized 23038 tokens at 497341.07 tokens per second.
+CIDEr: 0.7604943120159872 | CLIPScore: 0.721582761351925
+所有檔案處理完成
+正在處理檔案: model_P2_0_b.json
+PTBTokenizer tokenized 110968 tokens at 1504646.28 tokens per second.
+PTBTokenizer tokenized 20279 tokens at 444940.23 tokens per second.
+CIDEr: 0.7738786097232995 | CLIPScore: 0.6811873988774717
+正在處理檔案: model_P2_1_b.json
+PTBTokenizer tokenized 110968 tokens at 1509726.80 tokens per second.
+PTBTokenizer tokenized 22231 tokens at 487552.82 tokens per second.
+CIDEr: 0.8511841185200625 | CLIPScore: 0.7046942926772551
+正在處理檔案: model_P2_2_b.json
+PTBTokenizer tokenized 110968 tokens at 1546425.58 tokens per second.
+PTBTokenizer tokenized 22117 tokens at 478854.69 tokens per second.
+CIDEr: 0.9208899608590035 | CLIPScore: 0.716701654697544
+正在處理檔案: model_P2_3_b.json
+PTBTokenizer tokenized 110968 tokens at 1536670.24 tokens per second.
+PTBTokenizer tokenized 21975 tokens at 478995.80 tokens per second.
+CIDEr: 0.909206620927411 | CLIPScore: 0.7154168117772673
+正在處理檔案: model_P2_4_b.json
+PTBTokenizer tokenized 110968 tokens at 1546084.98 tokens per second.
+PTBTokenizer tokenized 22557 tokens at 494778.15 tokens per second.
+CIDEr: 0.8771435703317203 | CLIPScore: 0.718183863955946
+正在處理檔案: model_P2_5_b.json
+PTBTokenizer tokenized 110968 tokens at 1547906.86 tokens per second.
+PTBTokenizer tokenized 22428 tokens at 488355.92 tokens per second.
+CIDEr: 0.8440773665936974 | CLIPScore: 0.7191567077124965
+正在處理檔案: model_P2_6_b.json
+PTBTokenizer tokenized 110968 tokens at 1542904.87 tokens per second.
+PTBTokenizer tokenized 22315 tokens at 492885.74 tokens per second.
+CIDEr: 0.8380521494074338 | CLIPScore: 0.7201046461230086
+正在處理檔案: model_P2_7_b.json
+PTBTokenizer tokenized 110968 tokens at 1359009.06 tokens per second.
+PTBTokenizer tokenized 22733 tokens at 487098.08 tokens per second.
+CIDEr: 0.7939397767565123 | CLIPScore: 0.7184289939714051
+正在處理檔案: model_P2_8_b.json
+PTBTokenizer tokenized 110968 tokens at 1498343.50 tokens per second.
+PTBTokenizer tokenized 22887 tokens at 496257.22 tokens per second.
+CIDEr: 0.7802587069827969 | CLIPScore: 0.7194224784599462
+正在處理檔案: model_P2_9_b.json
+PTBTokenizer tokenized 110968 tokens at 1544590.74 tokens per second.
+PTBTokenizer tokenized 22741 tokens at 495067.85 tokens per second.
+CIDEr: 0.7655580714638405 | CLIPScore: 0.7164155843872275
+正在處理檔案: model_P2_10_b.json
+PTBTokenizer tokenized 110968 tokens at 1530680.26 tokens per second.
+PTBTokenizer tokenized 22801 tokens at 494080.25 tokens per second.
+CIDEr: 0.7565660643789037 | CLIPScore: 0.7161455490257301
+所有檔案處理完成
