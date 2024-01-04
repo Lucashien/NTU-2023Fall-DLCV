@@ -1,0 +1,1 @@
+python3 P2/P2_inference.py hw2_data/face/noise P2/output P2/UNet.pt

@@ -1,0 +1,1 @@
+bash hw2_download_ckpt.sh to get models' weight to this dir
