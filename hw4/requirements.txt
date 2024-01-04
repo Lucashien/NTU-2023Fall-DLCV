@@ -1,0 +1,9 @@
+torch
+torchvision
+matplotlib
+pytorch-lightning
+opencv-python
+kornia
+scipy
+imageio
+lpips
