@@ -1,0 +1,16 @@
+imageio==2.21.2
+matplotlib==3.5.3
+numpy==1.23.1
+Pillow==9.2.0
+scipy==1.9.1
+torch==1.12.1
+torchvision==0.13.1
+gdown
+tqdm
+glob
+yaml
+transformers==4.21.3
+timm==0.6.7
+scikit-learn==1.1.2
+pandas
+einops==0.6.1
